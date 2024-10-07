@@ -1,3 +1,7 @@
+// This program calculates the properties of a circle based on the coordinates
+// of its center and a point on its circumference. It computes the radius,
+// circumference, and area of the circle using various functions.
+
 #include <iostream>
 #include <cmath>
 
